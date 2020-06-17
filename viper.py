@@ -65,7 +65,7 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
 ╰━━┻╯╰┻╯╰━┻╯╰┻╯╰╯╰╯╱╱╰╯╰╯╰┻━━━╯
                                                  
               
-                 IkRaM_VaU
+                   Md Al Fahad
                 ▇◤▔▔▔▔▔▔▔◥▇
                 ▇▏◥▇◣┊◢▇◤▕▇
                 ▇▏▃▆▅▎▅▆▃▕▇
