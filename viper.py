@@ -127,8 +127,8 @@ print  """\033[1;91m
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "Mr-Viper-Cloud"
-CorrectPassword = "Mr-Viper1"
+CorrectUsername = "Mz-Tusar"
+CorrectPassword = "Joy KF"
 
 loop = 'true'
 while (loop == 'true'):
