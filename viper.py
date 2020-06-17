@@ -48,7 +48,7 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
-                ☣️☢️Md Al Fahad☢️☣️ 
+                ☣️☢️Mz Tusar☢️☣️ 
             ♠I Am From Bangladesh♠
           🔥 Stay_Home - Stay_Safe 🔥
            
@@ -65,7 +65,7 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
 ╰━━┻╯╰┻╯╰━┻╯╰┻╯╰╯╰╯╱╱╰╯╰╯╰┻━━━╯
                                                  
               
-                Md Al Fahad
+                Mz Tusar
                 ▇◤▔▔▔▔▔▔▔◥▇
                 ▇▏◥▇◣┊◢▇◤▕▇
                 ▇▏▃▆▅▎▅▆▃▕▇
@@ -82,10 +82,8 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
             ♥️♥️♥️ BesT Of Luck  ♥️♥️♥️
          ♥️♥️ YouR HelP Our Happiness ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m Mr-Viper-Cloud
-\033[1;96mInstagram \033[1;93m: \033[1: md_al_fahad_01
-\033[1;96mFacebook  \033[1;93m: \033[1: Md Al Fahad.0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Mr-Viper-Cloud/Mr-Viper-Cloud
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Mz-Tusar
+\033[1;96mFacebook  \033[1;93m: \033[1: Mz Tusar
 \033[1;91m======================================="""
 
 def tik():
@@ -114,7 +112,7 @@ print  """\033[1;91m
 ╱┃┃┃╰╯┫╭╮╭┫╭╮┃┃┃┃┃┃╱┃╰╯┃╭╮┃┃╱┃┃
 ╭┫┣┫╭╮┫┃┃╰┫╭╮┃┃┃┃┃┃╱╰╮╭┫╭╮┃╰━╯┃
 ╰━━┻╯╰┻╯╰━┻╯╰┻╯╰╯╰╯╱╱╰╯╰╯╰┻━━━╯
-                 Md Al Fahad       
+                 Mz Tusar      
                 ▇◤▔▔▔▔▔▔▔◥▇
                 ▇▏◥▇◣┊◢▇◤▕▇
                 ▇▏▃▆▅▎▅▆▃▕▇                 
@@ -124,10 +122,8 @@ print  """\033[1;91m
                 ▇▇▇◣╲▇╱◢▇▇▇
                 ▇▇▇▇◣▇◢▇▇▇▇           
                    
-\033[1;96mAuthor  \033[1;93m: \033[1;92m Mr-Viper-Cloud
-\033[1;96mInstagram \033[1;93m: \033[1;92m md_al_fahad_01
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Md Al Fahad.0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Mr-Viper-Cloud/Mr-Viper-Cloud
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Mz-Tusar
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Mz Tusar
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
@@ -144,10 +140,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/profile.php?id=100024276215708.0/ ')
+            os.system('xdg-open https://www.facebook.com/xbulatxs.0/ ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.facebook.com/profile.php?id=100024276215708.0/ ')
+        os.system('xdg-open  https://www.facebook.com/xbulatxs.0/ ')
 
 def login():
 	os.system('clear')
