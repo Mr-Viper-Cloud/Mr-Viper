@@ -1,4 +1,4 @@
-# Mr-Viper
+# Mr-Viper-Cloud
 
 Assalamualaikum
 
@@ -25,7 +25,7 @@ It's Help You To Find Old Account.
 
 • git clone https://github.com/Mr-Viper-Cloud/Mr-Viper.git
 
-• cd Mr-Viper
+• cd Mr-Viper-Cloud
 
 • ls
 
