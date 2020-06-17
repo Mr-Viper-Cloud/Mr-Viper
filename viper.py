@@ -48,9 +48,9 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
-                ☣️☢️Mz Tusar☢️☣️ 
-            ♠I Am From Bangladesh♠
-          🔥 Stay_Home - Stay_Safe 🔥
+               ☣️☢️Jennifer Anne Gray☢️☣️ 
+             ♠I Am From Bangladesh♠
+           🔥 Stay_Home - Stay_Safe 🔥
            
         ♠👉 Welcome To Our Worldest👈♠
         ♠👉Unlimited Cloning Github👈♠
@@ -65,7 +65,7 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
 ╰━━┻╯╰┻╯╰━┻╯╰┻╯╰╯╰╯╱╱╰╯╰╯╰┻━━━╯
                                                  
               
-                Mz Tusar
+                Jennifer Anne Gray
                 ▇◤▔▔▔▔▔▔▔◥▇
                 ▇▏◥▇◣┊◢▇◤▕▇
                 ▇▏▃▆▅▎▅▆▃▕▇
@@ -82,8 +82,8 @@ logo = """  BD👉✅⭕Assalamu Alaikum⭕✅👈BD
             ♥️♥️♥️ BesT Of Luck  ♥️♥️♥️
          ♥️♥️ YouR HelP Our Happiness ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m Mz-Tusar
-\033[1;96mFacebook  \033[1;93m: \033[1: Mz Tusar
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Jennifer_Anne_Gray
+\033[1;96mFacebook  \033[1;93m: \033[1: Jennifer Anne Gray
 \033[1;91m======================================="""
 
 def tik():
@@ -112,7 +112,7 @@ print  """\033[1;91m
 ╱┃┃┃╰╯┫╭╮╭┫╭╮┃┃┃┃┃┃╱┃╰╯┃╭╮┃┃╱┃┃
 ╭┫┣┫╭╮┫┃┃╰┫╭╮┃┃┃┃┃┃╱╰╮╭┫╭╮┃╰━╯┃
 ╰━━┻╯╰┻╯╰━┻╯╰┻╯╰╯╰╯╱╱╰╯╰╯╰┻━━━╯
-                 Mz Tusar      
+                Jennifer Anne Gray      
                 ▇◤▔▔▔▔▔▔▔◥▇
                 ▇▏◥▇◣┊◢▇◤▕▇
                 ▇▏▃▆▅▎▅▆▃▕▇                 
@@ -122,12 +122,12 @@ print  """\033[1;91m
                 ▇▇▇◣╲▇╱◢▇▇▇
                 ▇▇▇▇◣▇◢▇▇▇▇           
                    
-\033[1;96mAuthor  \033[1;93m: \033[1;92m Mz-Tusar
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Mz Tusar
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Jennifer_Anne_Gray
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Jennifer Anne Gray
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "Mz-Tusar"
+CorrectUsername = "Jennifer-Anne-Gray"
 CorrectPassword = "Joy KF"
 
 loop = 'true'
@@ -140,10 +140,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/xbulatxs.0/ ')
+            os.system('xdg-open https://www.facebook.com/jenniferanne.gray.3.0/ ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.facebook.com/xbulatxs.0/ ')
+        os.system('xdg-open https://www.facebook.com/jenniferanne.gray.3.0/ ')
 
 def login():
 	os.system('clear')
